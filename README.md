@@ -1,0 +1,2 @@
+# trading-robot
+Trading robot
